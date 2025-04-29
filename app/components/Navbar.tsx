@@ -12,7 +12,6 @@ export function Navbar(){
                 <h4 className="text-3xl font-semibold">Easy<span className="text-blue-500">Schedule</span></h4>
             </Link>
             <AuthModel />
-            
         </div>
     )
 }
